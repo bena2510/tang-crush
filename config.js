@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Babe à!',
     introDesc: `Anh nhà ở đâu thế ???
-Cứ tới lui tròn tim tui chẳng nhớ đường về à ☻☻☻`,
+Cứ tới lui trong tim tui chẳng nhớ đường về à ☻☻☻`,
     btnIntro: 'hihi',
     title: 'Người iu anh xinh nhất thế giới đúng hơm :3💁‍♀️💁‍♀️',
     desc: 'Hí 😛😛',
