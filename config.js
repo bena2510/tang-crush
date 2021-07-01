@@ -12,7 +12,7 @@ Cứ tới lui trong tim tui chẳng nhớ đường về à ☻☻☻`,
     reply: 'Yêu anh thì lúc nào em muốn cũng đc hết á 🥰🥰',
     mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
     messDesc: 'Anh đến đón em xong em lái anh nhá 🙌 .',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun, love u 3000 <3',
     messLink: 'https://www.facebook.com/profile.php?id=100020985674960' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 😍
